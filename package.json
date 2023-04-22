@@ -1,0 +1,21 @@
+{
+  "name": "homework_jest_11.1",
+  "version": "1.0.0",
+  "main": "babel.config.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "description": "",
+  "devDependencies": {
+    "@babel/preset-env": "^7.21.4",
+    "cypress": "^12.9.0",
+    "webpack": "^5.79.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
